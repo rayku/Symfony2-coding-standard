@@ -91,9 +91,6 @@
     <rule ref="Symfony2.Commenting.FunctionComment.MissingReturn">
         <severity>0</severity>
     </rule>
-    <rule ref="Generic.Functions.OpeningFunctionBraceBsdAllman.BraceOnSameLine">
-        <severity>0</severity>
-    </rule>
     <rule ref="Symfony2.Commenting.FunctionComment.WrongStyle">
         <severity>0</severity>
     </rule>
@@ -119,6 +116,12 @@
         <severity>0</severity>
     </rule>
     <rule ref="Squiz.Functions.GlobalFunction.Found">
+        <severity>0</severity>
+    </rule>
+    <rule ref="Symfony2.Commenting.FunctionComment.MissingParamTag">
+        <severity>0</severity>
+    </rule>
+    <rule ref="Symfony2.Commenting.FunctionComment.SpacingAfterParams">
         <severity>0</severity>
     </rule>
     
